@@ -45,7 +45,15 @@ Delete a product from the inventory using its **Product ID**.
 
 ✅ **Successful deletion:**
 
-![Product Deleted](https://github.com/user-attachments/assets/974deed8-1f3d-4f9b-a6c0-91db798af122)
+## 📜 View Inventory total value
+Aggregate and sum up all product items in the inventory.
+
+![Total_Value](https://github.com/user-attachments/assets/74058cd5-ca22-49d8-a564-5af73923a2e5)
+✅ **To Check if value is correct**
+
+![image](https://github.com/user-attachments/assets/aa1ff217-4b08-4387-9789-9c47c2cbaab9)
+
+
 
 ---
 
